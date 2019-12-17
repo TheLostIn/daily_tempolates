@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{goodfellow2014generative}
+Ian Goodfellow, Jean Pougetabadie, Mehdi Mirza, Bing Xu, David Wardefarley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock pages 2672--2680, 2014.
+
+\bibitem{salimans2016improved}
+Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, and
+  Xi~Chen.
+\newblock Improved techniques for training gans.
+\newblock pages 2234--2242, 2016.
+
+\end{thebibliography}
